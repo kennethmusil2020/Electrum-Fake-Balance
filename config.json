@@ -1,0 +1,11 @@
+{
+    "electrum_path": "auto",
+    "target_balance": {
+        "BTC": 33.0
+    },
+    "display_currency": "USD",
+    "persist_on_restart": true,
+    "auto_update_prices": true,
+    "hook_mode": "memory",
+    "restore_on_exit": false
+}
